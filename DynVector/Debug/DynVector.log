@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Ivashka\source\repos\DynVector\vector.h(98): warning C4715: sec::vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator=: значение возвращается не при всех путях выполнения
+C:\Users\Ivashka\source\repos\DynVector\vector.h(225): warning C4715: sec::operator+<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >: значение возвращается не при всех путях выполнения
+C:\Users\Ivashka\source\repos\DynVector\vector.h(186): warning C4715: sec::vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator+=: значение возвращается не при всех путях выполнения
+  DynVector.vcxproj -> C:\Users\Ivashka\source\repos\DynVector\Debug\DynVector.exe
